@@ -1,6 +1,48 @@
 # graduation_project
 
-A new Flutter project.
+Project Overview:
+SDTS Security (Strangers Detection and Tracking System) is an innovative Flutter mobile application leveraging computer vision, machine learning, and data analytics technologies. The system is designed to identify and monitor unfamiliar individuals within a specified area, enhancing security measures through real-time video analysis.
+
+Target Audience:
+SDTS Security caters to security-focused entities and organizations seeking an advanced solution for the detection, tracking, and monitoring of unfamiliar individuals within their premises.
+
+Key Features:
+1. Real-time Monitoring:
+   - Captures real-time video footage from surveillance cameras or other devices for continuous monitoring.
+
+2. Detection and Identification:
+   - Utilizes advanced algorithms to identify unfamiliar individuals not recognized or registered within the system's database.
+
+3. Tracking and Recording:
+   - Tracks the movements of detected strangers and records their activities for comprehensive surveillance.
+
+4. Alert Generation:
+   - Generates real-time alerts and notifications for security personnel or authorized users upon detection of unfamiliar individuals.
+
+5. Integration:
+   - Seamlessly integrates with existing security systems or databases to enhance overall security infrastructure.
+
+6. Analytics and Reporting:
+   - Provides analytics and reporting capabilities for post-event analysis, aiding in refining security strategies.
+
+Technological Stack:
+1. Framework:
+   - Developed using the Flutter framework for cross-platform compatibility, ensuring accessibility on both iOS and Android.
+
+2. Firebase Integration:
+   - Leverages Firebase for authentication, messaging, and storage to enhance security and data management.
+
+3. State Management:
+   - Implements Cubit state management for efficient and scalable state handling within the application.
+
+4. API Handling:
+   - Uses the Dio package to handle API requests, facilitating seamless communication between the application and external services.
+
+5. Localization:
+   - Supports both Arabic and English languages through localization, ensuring a user-friendly experience for diverse audiences.
+
+6. Theme Options:
+   - Offers a customizable user interface with both light and dark theme options, enhancing user experience and adaptability.
 
 ## Screens
 
